@@ -1,0 +1,26 @@
+{
+    "name": "AlitaSwap Default List",
+    "timestamp": "2021-09-10T7:41:29.665Z",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "patch": 2
+    },
+    "tags": {},
+    "logoURI": "https://exchange.alita.finance/images/coins/0x557233E794d1a5FbCc6D26dca49147379ea5073c.png",
+    "keywords": [
+      "alitaswap",
+      "default"
+    ],
+    "tokens": [
+      {
+        "name": "Alita Token",
+        "symbol": "ALI",
+        "address": "0x557233E794d1a5FbCc6D26dca49147379ea5073c",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://exchange.alita.finance/images/coins/0x557233E794d1a5FbCc6D26dca49147379ea5073c.png"
+      }
+      
+    ]
+  }
